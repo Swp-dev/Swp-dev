@@ -10,6 +10,7 @@
 
 ```txt
 Name      : Trương NHật Nam (ktn)
+Country   : Việt Nam (GMT+7)
 Role      : Developer / Student
 Focus     : Automation • Security • Reverse Engineering
 Languages : JavaScript • Python • NodeJS
