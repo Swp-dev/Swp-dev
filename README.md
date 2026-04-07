@@ -92,7 +92,7 @@ Goal      : Build cool tools & learn system internals
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://nhavua.vercel.app">
+<a href="https://kingktn.vercel.app">
 <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
