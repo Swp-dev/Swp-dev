@@ -50,32 +50,6 @@ Goal      : Build cool tools & learn system internals
 
 ---
 
-# 🚀 Projects
-
-### 🔐 Javascript Armor
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swp-dev&repo=JavascriptArmor&theme=tokyonight)](https://github.com/Swp-dev/JavascriptArmor)
-
-![Stars](https://img.shields.io/github/stars/Swp-dev/JavascriptArmor?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Swp-dev/JavascriptArmor?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Swp-dev/JavascriptArmor?style=for-the-badge)
-
-🔗 [JSarmor](https://github.com/Swp-dev/JavascriptArmor)
-
----
-
-### ⚡ Tool Raid Webhook
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swp-dev&repo=Tool-Raid-Webhook&theme=tokyonight)](https://github.com/Swp-dev/Tool-Raid-Webhook)
-
-![Stars](https://img.shields.io/github/stars/Swp-dev/Tool-Raid-Webhook?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Swp-dev/Tool-Raid-Webhook?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Swp-dev/Tool-Raid-Webhook?style=for-the-badge)
-
-🔗 [Tool Raid Webhook](https://github.com/Swp-dev/Tool-Raid-Webhook)
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
