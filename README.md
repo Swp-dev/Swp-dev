@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi :D
+## Hi There!
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=👨‍💻+Developer;⚡+JavaScript+%7C+Python;🔐+Security+%26+Automation;🚀+Building+Cool+Tools" />
@@ -6,51 +6,32 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 ```txt
-Name      : Trương NHật Nam (ktn)
+Name      : Trương NHật Bảo Nam (ktn1703)
 Country   : Việt Nam (GMT+7)
 Role      : Developer / Student
 Focus     : Automation • Security • Reverse Engineering
-Languages : JavaScript • Python • NodeJS
+Languages : JavaScript • Python • TypeScript
 Goal      : Build cool tools & learn system internals
 ```
 ![Profile Views](https://komarev.com/ghpvc/?username=Swp-dev&style=for-the-badge)
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux" />
-
-</p>
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swp-dev&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swp-dev&layout=compact&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swp-dev&theme=tokyo-night"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
