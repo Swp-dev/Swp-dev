@@ -1,4 +1,4 @@
-## Hi There!
+## Hi There!            ![Profile Views](https://komarev.com/ghpvc/?username=Swp-dev&style=for-the-badge)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=👨‍💻+Developer;⚡+JavaScript+%7C+Python;🔐+Security+%26+Automation;🚀+Building+Cool+Tools" />
@@ -16,18 +16,6 @@ Focus     : Automation • Security • Reverse Engineering
 Languages : JavaScript • Python • TypeScript
 Goal      : Build cool tools & learn system internals
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=Swp-dev&style=for-the-badge)
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
-
-</p>
 
 ---
 
@@ -60,4 +48,3 @@ Goal      : Build cool tools & learn system internals
 💡 *Code • Break • Learn • Repeat*
 
 </p>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
