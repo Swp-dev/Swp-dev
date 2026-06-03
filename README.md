@@ -1,7 +1,7 @@
 ## Hi There!            ![Profile Views](https://komarev.com/ghpvc/?username=Swp-dev&style=for-the-badge)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=👨‍💻+Developer;⚡+JavaScript+%7C+Python;🔐+Security+%26+Automation;🚀+Building+Cool+Tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=450&lines=👨‍💻+Developer;⚡+JavaScript+%7C+Python;🔐+Security+%26+Automation;🚀+Building+Cool+Tools" />
 </p>
 
 ---
