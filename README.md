@@ -27,11 +27,11 @@ Goal      : Build cool tools & learn system internals
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://tiktok.com/@niemtinthatxaxi">
+<a href="https://tiktok.com/@.coledaylalancuoi">
 <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Swp-dev">
+<a href="https://github.com/ktn1703">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
