@@ -16,3 +16,6 @@
 
 <div align="center">
 <p><a href="Vanish Club" target="_blank"https://discord.gg/vanishclub</a></p>
+
+---
+# Join For More Tools / Source Code: [Vanish Club](https://discord.gg/vanishclub)
